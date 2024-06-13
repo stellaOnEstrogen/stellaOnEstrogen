@@ -17,7 +17,7 @@
 <div align="left">
   <ul>
     <li>👩‍💻 I'm a software / web developer</li>
-    <li>🌈 I'm a member of the LGBTQ+ community (Bi-Sexual)</li>
+    <li>🌈 I'm a member of the LGBTQ+ community (Trans Women / Bi-Sexual)</li>
     <li>🦊 I am a Furry</li>
     <li>🔭 I’m working as a developer for vtubers.tv</li>
     <li>📚 I'm currently learning NuxtJS</li>
